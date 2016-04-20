@@ -16,7 +16,10 @@ import datetime
 
 zaman = datetime.datetime.now()
 datetime.datetime.ctime(zaman)
+
 print '******************************'
+
 print '*',zaman,'*'
+
 print '******************************'
 
